@@ -6,6 +6,8 @@
         {
             "name": "Win32",
             "includePath": [
+                "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/include",
+                "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/src",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -101,14 +103,14 @@
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/Torsten/.platformio/packages/tool-unity",
-                "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/include",
-                "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/src",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": "${workspaceRoot}/.vscode/.browse.c_cpp.db",
                 "path": [
+                    "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/include",
+                    "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/src",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -204,13 +206,11 @@
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/Torsten/.platformio/packages/tool-unity",
-                    "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/include",
-                    "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/src",
                     ""
                 ]
             },
             "defines": [
-                "PLATFORMIO=30607",
+                "PLATFORMIO=40000",
                 "ARDUINO_ESP32_DEV",
                 "ESP32",
                 "ESP_PLATFORM",
