@@ -108,7 +108,6 @@
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": "${workspaceRoot}/.vscode/.browse.c_cpp.db",
                 "path": [
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/include",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Weather-Display-ESP32-EPD/src",
@@ -212,7 +211,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=40000",
+                "PLATFORMIO=40003",
                 "ARDUINO_ESP32_DEV",
                 "ESP32",
                 "ESP_PLATFORM",
